@@ -11,3 +11,7 @@
 **accuracy_score**: This metric calculates the proportion of correctly predicted instances out of the total instances. It’s a basic indicator of a model’s performance but can be misleading in imbalanced datasets.
 
 **roc_auc_score**: The ROC AUC (Receiver Operating Characteristic Area Under Curve) score measures a model’s ability to distinguish between classes. It evaluates the trade-off between the true positive rate and the false positive rate, with a score of 1 being perfect classification.
+
+**DecisionTreeClassifier**: This algorithm splits the dataset into branches based on feature values, forming a tree structure where each leaf represents a class label. It works by recursively selecting the best feature to split the data for optimal classification.
+
+**KNeighborsClassifier**: This classifier predicts the class of a data point based on the majority class of its *k* nearest neighbors. It is a simple, non-parametric algorithm used for classification tasks, relying on distance metrics like Euclidean distance to find the neighbors.
