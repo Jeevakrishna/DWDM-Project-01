@@ -1,4 +1,4 @@
-SVC : In data mining, Support Vector Classifier (SVC) is a supervised learning algorithm that classifies data by finding the optimal hyperplane that separates different classes. It works by maximizing the margin between the closest points of different classes, known as support vectors, to improve classification accuracy.
+**SVC** : In data mining, Support Vector Classifier (SVC) is a supervised learning algorithm that classifies data by finding the optimal hyperplane that separates different classes. It works by maximizing the margin between the closest points of different classes, known as support vectors, to improve classification accuracy.
 
 **Logistic Regression** :Logistic Regression is a statistical method used for binary classification tasks, predicting the probability of a binary outcome (0 or 1) based on one or more predictor variables. It uses the logistic function to model the relationship between the independent variables and the probability of the dependent variable.
 
