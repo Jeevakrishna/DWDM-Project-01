@@ -1,0 +1,1 @@
+SVC : In data mining, Support Vector Classifier (SVC) is a supervised learning algorithm that classifies data by finding the optimal hyperplane that separates different classes. It works by maximizing the margin between the closest points of different classes, known as support vectors, to improve classification accuracy.
